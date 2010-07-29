@@ -1,0 +1,15 @@
+// !$*UTF8*$!
+{
+	5DF1F4B4120211A000B720F8 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		codeSenseManager = 5DF1F4B8120211A000B720F8 /* Code sense */;
+		ignoreBreakpointsInProjectsDict = {
+		};
+		userBuildSettings = {
+		};
+	};
+	5DF1F4B8120211A000B720F8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+}

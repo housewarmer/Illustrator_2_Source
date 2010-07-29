@@ -1,0 +1,76 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		5DF1F4BB120211B300B720F8 /* AI2NSBezierPath.applescript */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.applescript; name = AI2NSBezierPath.applescript; path = /Users/MLM/Work/Development/Mac/Illustrator_2_Source.git/AI2NSBezierPath.applescript; sourceTree = "<absolute>"; };
+		5DF1F4BC120211B300B720F8 /* AI2Source.applescript */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.applescript; name = AI2Source.applescript; path = /Users/MLM/Work/Development/Mac/Illustrator_2_Source.git/AI2Source.applescript; sourceTree = "<absolute>"; };
+		5DF1F4BD120211B300B720F8 /* ReadMe.txt */ = {isa = PBXFileReference; lastKnownFileType = text; name = ReadMe.txt; path = /Users/MLM/Work/Development/Mac/Illustrator_2_Source.git/ReadMe.txt; sourceTree = "<absolute>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		5DF1F4B2120211A000B720F8 = {
+			isa = PBXGroup;
+			children = (
+				5DF1F4BB120211B300B720F8 /* AI2NSBezierPath.applescript */,
+				5DF1F4BC120211B300B720F8 /* AI2Source.applescript */,
+				5DF1F4BD120211B300B720F8 /* ReadMe.txt */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		5DF1F4B4120211A000B720F8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = "Em dash Industries";
+			};
+			buildConfigurationList = 5DF1F4B7120211A000B720F8 /* Build configuration list for PBXProject "Illustrator_2_Source" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5DF1F4B2120211A000B720F8;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		5DF1F4B9120211A100B720F8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		5DF1F4BA120211A100B720F8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5DF1F4B7120211A000B720F8 /* Build configuration list for PBXProject "Illustrator_2_Source" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5DF1F4B9120211A100B720F8 /* Debug */,
+				5DF1F4BA120211A100B720F8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5DF1F4B4120211A000B720F8 /* Project object */;
+}
